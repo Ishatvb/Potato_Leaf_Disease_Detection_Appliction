@@ -8,6 +8,12 @@ Datasets-
 6. _ul  1000 - ... mb		#.gitignore
 
 
-Application
-Upload and Capture from camera
-and predict button
+Application Detects- 
+        1. Late Blight
+        2. Early Blight
+        3. Healthy
+
+Contributors - 
+        1. Ishatv Beohar
+        2. Ina Zehra
+        3. Fanindra Saini
